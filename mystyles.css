@@ -1,0 +1,33 @@
+.header {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  height: 50px;
+  background-color: #aa4109;
+  position: absolute;
+  color: #ffefde;
+  text-align: right;
+  font-size: 20px;
+}
+
+.mainbody {
+  top: 51px;
+  left: 0px;
+  right: 0px;
+  position: absolute;
+  padding-bottom: 40px;
+  background-color: #ffefde;
+  color: #4a1000;
+}
+
+.footer {
+  text-align: center;
+  font-size: 15px;
+  color: #ffefde;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  height: 40px;
+  position: fixed;
+  background-color: #aa4109;
+}
